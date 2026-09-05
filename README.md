@@ -29,3 +29,20 @@ The project includes an interactive Excel dashboard with **dynamic KPIs and char
 ## Key Learnings
 Hands-on experience transforming raw data into business insights using statistical techniques, visualization, dynamic dashboard creation, and data storytelling.
 
+
+
+<img width="1850" height="695" alt="Screenshot 2026-09-05 162435" src="https://github.com/user-attachments/assets/2a93e39c-835d-4491-bfa8-85b496f8b6db" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
