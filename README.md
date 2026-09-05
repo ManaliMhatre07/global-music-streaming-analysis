@@ -1,22 +1,31 @@
-🎵 Capstone Project | Global Music Streaming Platform – Entertainment Preference Analysis
-I’m happy to share my first capstone project from the Data Analytics with Gen AI Program at NIIT.
-📚 Course: Data Storytelling and Visualization
-For this project, my team and I worked on “Global Music Streaming Platform – Entertainment Preference Analysis.” We worked with a music-streaming dataset and used Advanced Excel to clean, analyze, visualize, and turn the data into meaningful insights.
-🔍 What we worked on: • Data cleaning and preparation
- • Measures of central tendency and dispersion
- • Standard deviation and variance
- • IQR and outlier analysis
- • Correlation analysis
- • PivotTables and PivotCharts
- • Advanced Excel functions
- • Data visualization and storytelling
- • Interactive dashboard with dynamic KPIs
-📊 One of the highlights of the project was the interactive dashboard. We connected the KPIs and charts with slicers, so when a filter is selected, the KPI values and visualizations update dynamically.
-📁 Project deliverables: • Excel analysis workbook
- • Interactive dashboard
- • Project documentation
- • Presentation
-Working on this project gave me a much better understanding of how raw data can be cleaned, analyzed, visualized, and converted into insights that are easier to understand and communicate.
-It was a great learning experience working with my team, and I’m looking forward to applying these skills to more projects as I continue my journey in Data Analytics. 🚀
-#NIIT #DataAnalytics #DataStorytelling #DataVisualization #AdvancedExcel #Excel #DataAnalysis #Dashboard #KPI #CorrelationAnalysis #CapstoneProject #BusinessAnalytics
+# Global Music Streaming Platform – Entertainment Preference Analysis
+
+## Project Overview
+This is a team capstone project completed as part of the **Data Storytelling and Visualization** course in the **Data Analytics with Gen AI Program at NIIT**.
+
+The project focuses on analyzing listener preferences and engagement patterns on a global music streaming platform using **Advanced Excel**. The objective was to clean and analyze the dataset, identify meaningful patterns and relationships, and present the findings through data visualizations and an interactive dashboard.
+
+## Project Objectives
+* Analyze listener entertainment and music preferences
+* Identify popular streaming platforms, genres, and artists
+* Understand listener engagement patterns
+* Compare user behavior across different categories
+* Identify relationships between key variables using correlation analysis
+* Detect potential outliers using IQR
+* Present meaningful insights through an interactive dashboard
+
+## Tools & Techniques Used
+* **Tool:** Microsoft Excel
+* **Techniques:** Data Cleaning, Measures of Central Tendency & Dispersion, Standard Deviation, IQR Outlier Analysis, Correlation Analysis, PivotTables, PivotCharts, Interactive Dashboard, Dynamic KPIs, Slicers
+
+## Interactive Dashboard
+The project includes an interactive Excel dashboard with **dynamic KPIs and charts connected to slicers**. When a user selects a filter, relevant KPI values and charts update dynamically.
+
+## Project Files
+* `Global_Music_Streaming_Analysis.xlsx` – Complete Excel analysis and interactive dashboard
+* `Global_Music_Streaming_Project_Document.pdf` – Detailed project documentation
+* `Global_Music_Streaming_Project_Presentation.pdf` – Project presentation
+
+## Key Learnings
+Hands-on experience transforming raw data into business insights using statistical techniques, visualization, dynamic dashboard creation, and data storytelling.
 
